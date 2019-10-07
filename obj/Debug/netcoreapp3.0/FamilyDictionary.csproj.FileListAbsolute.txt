@@ -1,0 +1,11 @@
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.deps.json
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.runtimeconfig.json
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.runtimeconfig.dev.json
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.dll
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/bin/Debug/netcoreapp3.0/FamilyDictionary.pdb
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.csprojAssemblyReference.cache
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.AssemblyInfoInputs.cache
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.AssemblyInfo.cs
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.dll
+/Users/i9_editor/workspace/csharp/exercises/family_dictionary/obj/Debug/netcoreapp3.0/FamilyDictionary.pdb
